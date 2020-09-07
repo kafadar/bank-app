@@ -1,0 +1,34 @@
+export const TOKEN = "TOKEN";
+export const LOCAL_TOKEN = "LOCAL_TOKEN";
+
+export const SET_TOKEN = "SET_TOKEN";
+export const DELETE_TOKEN = "DELETE_TOKEN";
+
+export const ACCOUNTS = "ACCOUNTS";
+export const ACCOUNT_NUMBER = "ACCOUNT_NUMBER";
+export const ACCOUNTS_BY_PAGE = "ACCOUNTS_BY_PAGE";
+export const LOAD_ACCOUNTS = "LOAD_ACCOUNTS";
+export const SET_ACCOUNTS = "SET_ACCOUNTS";
+export const CREATE_ACCOUNT = "CREATE_ACCOUNT";
+export const DELETE_ACCOUNT = "DELETE_ACCOUNT";
+
+export const DEPOSIT_ACTION = "DEPOSIT_ACTION";
+export const TRANS_ACTION = "TRANS_ACTION";
+
+export const ACCOUNT_RECEIPT = "ACCOUNT_RECEIPT";
+
+export const SET_ACTIONS = "SET_ACTIONS";
+export const SET_TRANSACTIONS = "SET_TRANSACTIONS";
+export const DELETE_ACCOUNT_TRANS_ACTIONS = "DELETE_ACCOUNT_TRANS_ACTIONS";
+
+export const LOAD_ACTIONS = "LOAD_ACTIONS";
+export const LOAD_TRANSACTIONS = "LOAD_TRANSACTIONS";
+
+export const CURRENT_PAGE = "CURRENT_PAGE";
+export const ITEMS_PER_PAGE = "ITEMS_PER_PAGE";
+export const PAGE_COUNT = "PAGE_COUNT";
+export const SET_CURRENT_PAGE = "SET_CURRENT_PAGE";
+
+export const IS_AUTH = "IS_AUTH";
+export const REGISTER = "REGISTER";
+export const LOGOUT = "REGISTER";
