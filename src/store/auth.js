@@ -45,7 +45,7 @@ const actions = {
   },
   [LOGOUT]: function({ commit }) {
     localStorage.removeItem(TOKEN);
-    commit(SET_TOKEN);
+    commit(DELETE_TOKEN);
   },
 };
 

@@ -31,4 +31,4 @@ export const SET_CURRENT_PAGE = "SET_CURRENT_PAGE";
 
 export const IS_AUTH = "IS_AUTH";
 export const REGISTER = "REGISTER";
-export const LOGOUT = "REGISTER";
+export const LOGOUT = "LOGOUT";
